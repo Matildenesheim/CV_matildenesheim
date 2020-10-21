@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Matilde Nesheim
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MSc Cognitive Science Student, currently doing an internship at Rambøll Management Consulting
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Aarhus University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human behavior, statistics, programming, computer science and decision making. 
 
 interests:
+- Behavioral science
+- Decision Making 
+- Computer science
+- Nudging 
+- Process optimization 
+- Development
+- Human Computer Interaction
+- Computer science
+- Statistics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Cognitive Science
+    institution: Aarhus University
+    year: 2019-2020
+  - course: BSc Cognitive Science
+    institution: Aarhus University
+    year: 2016-2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +50,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:matildenesheim@hotmail.com"  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/matilde-nesheim-8716a4149/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/matildenesheim
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,6 +76,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+ I'm a Cognitive Science Master student from Aarhus University. My main interests include human behavior, nudging, behavioral economics, decision making, process optimization, human computer interaction (usability, interactivity), computer science, statistics, and programmable matter.
+ 
+I'm currently doing my internship at Rambøll Management Consulting in a sub-department called Public Quality Solutions, where I'm working with an IT-platform called Heart&Mind. By the use of this platform, both qualitative and quantitative assessments of quality in areas such as daycares or primary schools in the public sector are accoutered.
+
+
