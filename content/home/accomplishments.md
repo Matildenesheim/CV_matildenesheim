@@ -12,11 +12,11 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006" -->
 
-# Accomplishments.
+<!-- # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Begin/end multi-line descriptions with 3 quotes `"""`. -->
 
 <!-- [[item]]
   organization = "Coursera"
@@ -37,7 +37,7 @@ date_format = "Jan 2006" -->
   date_start = "2018-03-01"
   date_end = ""
   description = "Formulated informed blockchain models, hypotheses, and use cases." -->
-  
+<!--   
 # [[item]]
   # organization = "DataCamp"
   # organization_url = "https://www.datacamp.com"
@@ -48,4 +48,4 @@ date_format = "Jan 2006" -->
  # date_end = "2017-12-21"
  # description = ""
 
-# +++
+# +++ -->

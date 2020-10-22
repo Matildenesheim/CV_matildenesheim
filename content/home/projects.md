@@ -1,4 +1,48 @@
 +++
+# Experience widget.
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Projects"
+# subtitle = "Depression Detection" 
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes 
+[[experience]]
+  title = "Intern"
+  company = "Rambøll Management Consulting"
+  company_url = "www.ramboll.com"
+  location = "Aarhus"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data analysis
+  * Programming
+  * User Experience 
+  * Extern communication with clients  
+  
+""" 
++++
+
+
+
+
+
+
+
+<!-- 
++++
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -6,7 +50,25 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Depression detection"
+[[depression]]
+  title = "Intern"
+  company = "Rambøll Management Consulting"
+  company_url = "www.ramboll.com"
+  location = "Aarhus"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Data analysis
+  * Programming
+  * User Experience 
+  * Extern communication with clients  
+
+  """
+
+
 
 [content]
   # Page type to display. E.g. project.
@@ -22,16 +84,16 @@ subtitle = ""
   filter_default = 0
   
   # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   #  name = "All"
+   #  tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
+  #  name = "Deep Learning"
   #   tag = "Deep Learning"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   #  name = "Other"
+  #  tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -73,5 +135,5 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
++++ -->
 
