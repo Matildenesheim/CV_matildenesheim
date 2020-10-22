@@ -18,13 +18,14 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human behavior, statistics, programming, computer science and decision making. 
+bio: My research interests include behavioral science, statistics, programming, computer science and decision making. 
 
 interests:
 - Behavioral science
 - Decision Making 
 - Computer science
 - Nudging 
+- Behavioral economics 
 - Process optimization 
 - Development
 - Human Computer Interaction
@@ -78,7 +79,7 @@ user_groups:
 
 Hi there!
 
- I'm a Cognitive Science Master student from Aarhus University. My main interests include human behavior, nudging, behavioral economics, decision making, process optimization, human computer interaction (usability, interactivity), computer science, statistics, and programmable matter.
+ I'm a Cognitive Science Master student from Aarhus University. My main interests include behavioral science, nudging, behavioral economics, decision making, process optimization, human computer interaction (usability, interactivity), computer science, statistics, and programmable matter.
  
 I'm currently doing my internship at Rambøll Management Consulting in a sub-department called Public Quality Solutions, where I'm working with an IT-platform called Heart&Mind. By the use of this platform, both qualitative and quantitative assessments of quality in areas such as daycares or primary schools in the public sector are accoutered.
 

@@ -14,23 +14,40 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Cognitive science"
+
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  # description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  # description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "question"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Decision making"
+  # description = "10%"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Cognitive Neuroscience"
+
+[[feature]]
+  icon = "users"
+  icon_pack = "fas"
+  name = "Behavioral science"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
