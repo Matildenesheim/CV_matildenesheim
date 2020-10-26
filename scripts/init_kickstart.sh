@@ -42,9 +42,3 @@ sed -i '' -e 's/active = true/active = false/' ../content/home/hero.md
 # - content/home/project.md: Re-comment out project filters
 # - content/home/demo.md: Re-modify content & set gradient background instead of image
 # - content/home/hero.md: Clear `hero_media` value & set gradient background instead of image
-<iframe
-    allow="microphone;"
-    width="350"
-    height="430"
-    src="https://console.dialogflow.com/api-client/demo/embedded/b34f7a49-3124-4968-97b8-826b904e6a37">
-</iframe> 
