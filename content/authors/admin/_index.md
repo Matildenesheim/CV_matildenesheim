@@ -81,6 +81,6 @@ Hi there!
 
  I'm a Cognitive Science Master student from Aarhus University. My main interests include behavioral science, nudging, behavioral economics, decision making, process optimization, human computer interaction (usability, interactivity), computer science, statistics, and programmable matter.
  
-I'm currently doing my internship at Rambøll Management Consulting in a sub-department called Public Quality Solutions, where I'm working with an IT-platform called Heart&Mind. By the use of this platform, both qualitative and quantitative assessments of quality in areas such as daycares or primary schools in the public sector are accoutered.
+I'm currently doing my internship at Rambøll Management Consulting in a sub-department called Public Quality Solutions, where I'm working with an IT-platform called Mind&Heart. By the use of this platform, both qualitative and quantitative assessments of quality in areas such as daycares or primary schools in the public sector are accoutered and reported. 
 
 
